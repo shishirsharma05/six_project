@@ -1,0 +1,38 @@
+   body{
+   	background:aliceblue;
+   	} 
+.center{
+	text-align: right;
+	font-size: 15px;
+	font-style: italic;
+}
+.img{
+	border: 5px solid;
+	width: 600px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.c{
+	
+    color: blueviolet;
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+.f_italic{
+	font-size: 15px;
+	font-style: italic;
+}
+.style{
+	font-size: 20px;
+    color: #5d32b1;
+    font-style: oblique;
+}
+.cen{
+	text-align: center;
+	font-size: 15px;
+	font-style: oblique;
+}
